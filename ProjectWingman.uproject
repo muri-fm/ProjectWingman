@@ -56,5 +56,8 @@
 			"Enabled": true
 		}
 	],
+	"TargetPlatforms": [
+		"Windows"
+	],
 	"EpicSampleNameHash": "1673045636"
 }
